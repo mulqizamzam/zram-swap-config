@@ -19,10 +19,10 @@ _____
 
 ## Install
     apt-get install git
-    git clone https://github.com/StuartIanNaylor/zram-swap-config
+    git clone https://github.com/mulqizamzam/zram-swap-config
     cd zram-swap-config
     chmod +x install.sh && sudo ./install.sh
-    cd ..
+    cd
     rm -r zram-swap-config
 
 ## Upgrade
